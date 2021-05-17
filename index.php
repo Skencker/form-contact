@@ -39,27 +39,27 @@
             <div class="col-md-6">
               <label for="firstname">Prénom <span class="orange">*</span></label>
               <input type="text" name = "firstname" id="firstname" class='form-control' placeholder="Votre prénom">
-              <p class='commentaire'>Hello commentaire</p>
+              <p class='commentaire'>Message erreur</p>
             </div>
             <div class="col-md-6">
               <label for="name">Nom <span class="orange">*</span></label>
               <input type="text" name = "name" class='form-control' placeholder="Votre nom">
-              <p class='commentaire'>Hello commentaire</p>
+              <p class='commentaire'>Mesage erreur</p>
             </div>
             <div class="col-md-6">
               <label for="mail">Email <span class="orange">*</span></label>
               <input type="email" name = "email" class='form-control' placeholder="Votre email">
-              <p class='commentaire'>Hello commentaire</p>
+              <p class='commentaire'>Message erreur</p>
             </div>
             <div class="col-md-6">
               <label for="phone">Téléphone </label>
               <input type="phone" name = "phone" class='form-control' placeholder="Votre téléphone">
-              <p class='commentaire'>Hello commentaire</p>
+              <p class='commentaire'>Message erreur</p>
             </div>
             <div class="col-md-12">
               <label for="message">Message <span class="orange">*</span></label>
               <textarea name="message" id="message" rows="4" class="form-control"></textarea>
-              <p class='commentaire'>Hello commentaire</p>
+              <p class='commentaire'>Message erreur</p>
             </div>
             <div class="col-md-12">
               <p class='orange'>* Ces informations sont requises</p>
